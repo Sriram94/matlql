@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
+.vscode/
+saved_observations/
+build/
+dist/
+PettingZoo.egg-info/
+docs/Gemfile.lock
+docs/Gemfile
+docs/classic/desktop.ini
+docs/Gemfile
+docs/Gemfile
+docs/Gemfile
